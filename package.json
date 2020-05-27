@@ -4,7 +4,8 @@
   "description": "Exploring concepts related to Progressive Web Apps (PWAs)",
   "main": "index.js",
   "scripts": {
-    "start": "http-server -d --no-dotfiles & open http://localhost:8080",
+    "start": "http-server -d --no-dotfiles",
+    "open": "open http://localhost:8080",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

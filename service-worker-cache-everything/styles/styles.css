@@ -1,0 +1,6 @@
+body {
+    background: #000;
+    background-image: url("/service-worker-cache-everything/images/cartographer.png");
+    color: #FFF;
+    font-family: sans-serif;
+}

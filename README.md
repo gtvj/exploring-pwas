@@ -9,4 +9,5 @@ Each example is contained within it's own folder as a HTML file and any associat
 To get things running: 
 
 * Install dependencies with `npm install`
-* Start a web server and launch your default browser with `npm start`
+* Start a web server with `npm start`
+* Open the application in a browser `npm run open`
