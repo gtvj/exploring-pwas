@@ -1,0 +1,7 @@
+body {
+    background: orange !important;
+}
+
+div {
+    outline: 40px solid blue;
+}
